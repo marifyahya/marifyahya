@@ -1,7 +1,7 @@
 # Moh. Arif Yahya
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=marifyahya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=marifyahya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="0" height="0" />
   <a href="https://marifyahya.github.io/index.html"><img src="https://img.shields.io/badge/Portfolio-marifyahya.github.io-blue?style=flat&logo=google-chrome" alt="Website" /></a>
 </p>
 
